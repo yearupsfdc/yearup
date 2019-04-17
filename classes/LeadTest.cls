@@ -1,4 +1,4 @@
-//test class
+//test class--another test
 @isTest private class LeadTest {
     
     static testMethod void test_TriggerDisabled() {
